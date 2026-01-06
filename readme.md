@@ -19,7 +19,7 @@
 
 ---
 ## Dataset Overview
-![[Pasted image 20251224123730.png]]
+![Dataset Preview](images/Pasted image 20251224123730.png)
 
 This document outlines the systematic approach to cleaning a messy cafe sales dataset containing errors, null values, unknown entries, and missing values across all columns. The dataset includes numerical columns (`Quantity`, `Price Per Unit`, `Total Spent`) and a `Transaction Date` column.
 
@@ -53,7 +53,7 @@ _Note: The 64% unrecoverable data consisted of records with insufficient informa
 ## 1. Data Constraint Issues
 
 ### Initial Assessment
-![[Pasted image 20251224125425.png]]
+![initial assesment](images/Pasted image 20251224125425.png)
 The dataset was loaded into Power Query for initial data constraint checks to identify faulty data types, range issues, and uniqueness problems.
 
 **Observations:**
